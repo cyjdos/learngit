@@ -1,3 +1,3 @@
 It's a test git file.
-I feel it's cool~!
+I think it's OK.
 and really cool~!!!
